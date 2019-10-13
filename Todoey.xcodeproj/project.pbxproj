@@ -13,6 +13,7 @@
 		4A3645422351ACFA0072B280 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A3645412351ACFA0072B280 /* Assets.xcassets */; };
 		4A3645452351ACFA0072B280 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A3645442351ACFA0072B280 /* Preview Assets.xcassets */; };
 		4A3645482351ACFA0072B280 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A3645462351ACFA0072B280 /* LaunchScreen.storyboard */; };
+		4A3645502351AD560072B280 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A36454F2351AD560072B280 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4A3645442351ACFA0072B280 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4A3645472351ACFA0072B280 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4A3645492351ACFA0072B280 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A36454F2351AD560072B280 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4A36453B2351ACF80072B280 /* AppDelegate.swift */,
 				4A36453D2351ACF80072B280 /* SceneDelegate.swift */,
 				4A36453F2351ACF80072B280 /* ContentView.swift */,
+				4A36454F2351AD560072B280 /* Main.storyboard */,
 				4A3645412351ACFA0072B280 /* Assets.xcassets */,
 				4A3645462351ACFA0072B280 /* LaunchScreen.storyboard */,
 				4A3645492351ACFA0072B280 /* Info.plist */,
@@ -136,6 +139,7 @@
 				4A3645482351ACFA0072B280 /* LaunchScreen.storyboard in Resources */,
 				4A3645452351ACFA0072B280 /* Preview Assets.xcassets in Resources */,
 				4A3645422351ACFA0072B280 /* Assets.xcassets in Resources */,
+				4A3645502351AD560072B280 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
